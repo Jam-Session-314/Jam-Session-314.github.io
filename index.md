@@ -9,9 +9,11 @@
    * [Milestone 2](#milestone-2)
    * [Milestone 3](#milestone-3)
 * [Example Enhancements](#example-enhancements)
-* [Team](#team)
+* [Team](#team) 
 
 ---
+
+Our [Team Contract](https://docs.google.com/document/d/1f1U1kpcvNE-tf4cDfWqKXqCFyr5-8HhCTtcAMeXk4z4/edit?tab=t.0#heading=h.ondungnqregq)
 
 ## Overview
 Many University of Hawaiʻi students have incredible musical talent but lack a simple way to connect with others who share compatible musical skills and interests. This gap means they miss out on the joy of informal jam sessions that could grow into dynamic performing groups.
