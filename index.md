@@ -64,7 +64,7 @@ We encourage feedback from the University of Hawaiʻi community to make Jam Sesh
 
 [Link](https://my-nextjs-application-jam-session.vercel.app) to our deployment page
 
-
+<img width="600px" class="rounded float-start pe-4" src="../img/landingPage.JPG">
 
 ---
 
