@@ -60,7 +60,11 @@ We encourage feedback from the University of Hawaiʻi community to make Jam Sesh
 
 ---
 
-## Deployment
+## Deployment 
+
+[Link](https://my-nextjs-application-jam-session.vercel.app) to our deployment page
+
+
 
 ---
 
