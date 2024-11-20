@@ -60,6 +60,10 @@ We encourage feedback from the University of Hawaiʻi community to make Jam Sesh
 
 ---
 
+## Deployment
+
+---
+
 ## Example Enhancements
 [Examples of future enhancements will be listed here. Possible improvements may include group chat features, event scheduling tools, or expanded profile options.]
 
