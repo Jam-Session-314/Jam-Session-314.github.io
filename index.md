@@ -71,7 +71,15 @@ Current screenshots of our progress so far:
 
 
 ### Milestone 2
-**Coming soon...**
+
+[Our M2 Project Page](https://github.com/orgs/Jam-Session-314/projects/8/)
+
+This Milestone will be focused on both styling and functionality. By this Milestone, every page should be styled correctly, and these functionalities should be implemented:
+
+- A page that allows the user to create sessions
+- A session management page that allows the user to manage their own sessions
+- Users can upload profile pictures to their profile
+- A landing page that shows a featured session
 
 ### Milestone 3
 **Coming soon...**
@@ -81,8 +89,6 @@ Current screenshots of our progress so far:
 ## Deployment 
 
 [Link](https://my-nextjs-application-jam-session.vercel.app) to our deployment page
-
-<img width="600px" class="rounded float-start pe-4" src="../img/landingPage.JPG">
 
 ---
 
