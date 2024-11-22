@@ -47,10 +47,28 @@ We encourage feedback from the University of Hawaiʻi community to make Jam Sesh
 ## Development History
 
 ### Milestone 1
-- For this milestone, we do hope to develop our M1 page, as well with some other things we need to finalize on whether its structure wise of the pages.
-- Also adding on the Deployment section
-- Finalize this whole entire page, like adding the link to the contract.
-- We'll try to keep things updated here with the screenshots of every progress we make
+
+[Our M1 Project Page](https://github.com/orgs/Jam-Session-314/projects/6)
+
+The issues that were completed for this milestone include:
+
+- The creation and styling of the landing, sign in, and profile pages
+- The addition of profile information into the prisma schema
+- The addition of session information into the prisma schema
+- The creation of the session view page and edit profile page
+- The deployment of the app to Vercel
+
+Current screenshots of our progress so far:
+
+<img width="600px" class="rounded float-start pe-4" src="../img/M1LandingPage.png">
+
+<img width="600px" class="rounded float-start pe-4" src="../img/M1LogIn.png">
+
+<img width="600px" class="rounded float-start pe-4" src="../img/M1Profile.png">
+
+<img width="600px" class="rounded float-start pe-4" src="../img/M1Sessions.png">
+
+
 
 ### Milestone 2
 **Coming soon...**
