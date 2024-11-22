@@ -57,7 +57,6 @@ The issues that were completed for this milestone include:
 - The addition of session information into the prisma schema
 - The creation of the session view page and edit profile page
 - The deployment of the app to Vercel
-- This is a test
 
 Current screenshots of our progress so far:
 
@@ -82,7 +81,6 @@ This Milestone will be focused on both styling and functionality. By this Milest
 - Users can upload profile pictures to their profile
 - A landing page that shows a featured session
 
-T
 
 ### Milestone 3
 **Coming soon...**
