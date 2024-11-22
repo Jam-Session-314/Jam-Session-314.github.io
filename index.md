@@ -72,7 +72,7 @@ Current screenshots of our progress so far:
 
 ### Milestone 2
 
-[Our M2 Project Page](https://github.com/orgs/Jam-Session-314/projects/8/)
+[Our M2 Project Page](https://github.com/orgs/Jam-Session-314/projects/7/)
 
 This Milestone will be focused on both styling and functionality. By this Milestone, every page should be styled correctly, and these functionalities should be implemented:
 
