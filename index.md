@@ -1,15 +1,25 @@
 # Jam Sesh-ion 🎶
 
 ## Table of Contents
-* [Overview](#overview)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Development History](#development-history)
-   * [Milestone 1](#milestone-1)
-   * [Milestone 2](#milestone-2)
-   * [Milestone 3](#milestone-3)
-* [Example Enhancements](#example-enhancements)
-* [Team](#team) 
+- [Jam Sesh-ion 🎶](#jam-sesh-ion-)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The Solution](#the-solution)
+  - [User Guide](#user-guide)
+    - [Landing Page](#landing-page)
+    - [Profile](#profile)
+    - [Sign-in / Sign-up](#sign-in--sign-up)
+    - [Creating an Account Page](#creating-an-account-page)
+    - [Home Page](#home-page)
+    - [Jam Session](#jam-session)
+  - [Community Feedback](#community-feedback)
+  - [Development History](#development-history)
+    - [Milestone 1](#milestone-1)
+    - [Milestone 2](#milestone-2)
+    - [Milestone 3](#milestone-3)
+  - [Deployment](#deployment)
+  - [Example Enhancements](#example-enhancements)
+  - [Team](#team)
 
 ---
 
@@ -89,7 +99,7 @@ This Milestone will be focused on both styling and functionality. By this Milest
 
 ## Deployment 
 
-[Link](https://my-nextjs-application-jam-session.vercel.app) to our deployment page
+[Link](https://jam-session.vercel.app) to our deployment page
 
 ---
 
