@@ -93,6 +93,9 @@ This Milestone will be focused on both styling and functionality. By this Milest
 
 
 ### Milestone 3
+
+[Our M3 Project Page](https://github.com/orgs/Jam-Session-314/projects/9/views/1)
+
 This Milestone will focus on finalizing the core features and improving the overall user experience. By this Milestone, the following functionalities should be completed:
 
 - Allow users to see each other's profiles
