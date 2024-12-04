@@ -93,7 +93,13 @@ This Milestone will be focused on both styling and functionality. By this Milest
 
 
 ### Milestone 3
-**Coming soon...**
+This Milestone will focus on finalizing the core features and improving the overall user experience. By this Milestone, the following functionalities should be completed:
+
+- Allow users to see each other's profiles
+- Allow users to sign up for jam sessions
+- Change the color of the session depending on if it still needs signups or not
+- Allow users to upload profile pictures to their profile
+- Create a landing page that shows a featured session
 
 ---
 
