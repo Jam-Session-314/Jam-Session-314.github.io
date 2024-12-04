@@ -97,9 +97,9 @@ Current Screenshots of what we comepleted for this milestone:
 
 <img width="600px" class="rounded float-start pe-4" src="../img/sessions.png">
 
-<img width="600px" class="rounded float-start pe-4" src="../img/addession.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/addsession">
 
-<img width="600px" class="rounded float-start pe-4" src="../img/currentsession">
+<img width="600px" class="rounded float-start pe-4" src="../img/currentSession">
 
 
 ### Milestone 3
