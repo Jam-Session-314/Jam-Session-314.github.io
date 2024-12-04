@@ -93,6 +93,10 @@ This Milestone will be focused on both styling and functionality. By this Milest
 - Users can upload profile pictures to their profile
 - A landing page that shows a featured session
 
+Current Screenshots of what we comepleted for this milestone: 
+
+
+
 
 ### Milestone 3
 
