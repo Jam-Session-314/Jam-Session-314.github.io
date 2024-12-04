@@ -1,3 +1,5 @@
+[![jam-session-nextjs](https://github.com/Jam-Session-314/jam-session/actions/workflows/ci.yml/badge.svg)](https://github.com/Jam-Session-314/jam-session/actions/workflows/ci.yml)
+
 # Jam Sesh-ion 🎶
 
 ## Table of Contents
