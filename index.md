@@ -95,7 +95,11 @@ This Milestone will be focused on both styling and functionality. By this Milest
 
 Current Screenshots of what we comepleted for this milestone: 
 
+<img width="600px" class="rounded float-start pe-4" src="../img/sessions.png">
 
+<img width="600px" class="rounded float-start pe-4" src="../img/addession.png">
+
+<img width="600px" class="rounded float-start pe-4" src="../img/currentsession">
 
 
 ### Milestone 3
