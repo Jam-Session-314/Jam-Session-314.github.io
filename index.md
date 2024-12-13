@@ -1,15 +1,27 @@
+[![jam-session-nextjs](https://github.com/Jam-Session-314/jam-session/actions/workflows/ci.yml/badge.svg)](https://github.com/Jam-Session-314/jam-session/actions/workflows/ci.yml)
+
 # Jam Sesh-ion 🎶
 
 ## Table of Contents
-* [Overview](#overview)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Development History](#development-history)
-   * [Milestone 1](#milestone-1)
-   * [Milestone 2](#milestone-2)
-   * [Milestone 3](#milestone-3)
-* [Example Enhancements](#example-enhancements)
-* [Team](#team) 
+- [Jam Sesh-ion 🎶](#jam-sesh-ion-)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The Solution](#the-solution)
+  - [User Guide](#user-guide)
+    - [Landing Page](#landing-page)
+    - [Profile](#profile)
+    - [Sign-in / Sign-up](#sign-in--sign-up)
+    - [Creating an Account Page](#creating-an-account-page)
+    - [Home Page](#home-page)
+    - [Jam Session](#jam-session)
+  - [Community Feedback](#community-feedback)
+  - [Development History](#development-history)
+    - [Milestone 1](#milestone-1)
+    - [Milestone 2](#milestone-2)
+    - [Milestone 3](#milestone-3)
+  - [Deployment](#deployment)
+  - [Example Enhancements](#example-enhancements)
+  - [Team](#team)
 
 ---
 
@@ -97,12 +109,20 @@ This Milestone will be focused on both styling and functionality. By this Milest
 - Users can upload profile pictures to their profile
 - A landing page that shows a featured session
 
+Current Screenshots of what we comepleted for this milestone: 
+
+<img width="600px" class="rounded float-start pe-4" src="../img/sessions.png">
+
+<img width="600px" class="rounded float-start pe-4" src="../img/addsession">
+
+<img width="600px" class="rounded float-start pe-4" src="../img/currentSession">
+
 
 ### Milestone 3
 
-[Our M3 Project Page](https://github.com/orgs/Jam-Session-314/projects/9)
+[Our M3 Project Page](https://github.com/orgs/Jam-Session-314/projects/9/views/1)
 
-This last milestone will be about making the app more interactive:
+This Milestone will focus on finalizing the core features and improving the overall user experience. By this Milestone, the following functionalities should be completed:
 
 - Allow users to see each other's profiles
 - Allow users to sign up for jam sessions
@@ -114,7 +134,7 @@ This last milestone will be about making the app more interactive:
 
 ## Deployment 
 
-[Link](https://my-nextjs-application-jam-session.vercel.app) to our deployment page
+[Link](https://jam-session.vercel.app) to our deployment page
 
 ---
 
