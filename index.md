@@ -76,6 +76,28 @@ After having five other students try out our application, they had a few suggest
 * They didn't like that there wasn't a feature to show the current capacity of a session. They had no way of knowing if a session was filled up or not.
 * Some users liked the profile aspect, but others didn't really know why they were needed.
 
+## Developer Guide
+
+To build the application, npm is required, which comes with Node.js. Go to the Node.js official website to install it.
+
+In addition, postgreSQL is also required to store app information in a database. Visit the PostgreSQL page to install it as well.
+
+Download or clone the repository to your computer, and run npm install in the root directory.
+
+Set up a database for the app by running createdb jam-session in the command prompt.
+
+Copy the sample.env file to a new file called .env, and edit the file, setting the DATABASE_URL to 
+
+```
+postgresql://username:password@localhost:5432/jam-session?schema=public
+```
+replacing username and password with your postgreSQL credentials.
+
+Migrate the database by running npx prisma migrate dev, and seed it with npx prisma db seed.
+
+Finally, run the app with npm run dev, checking localhost:3000 in your browser to view it.
+
+
 
 ## Development History
 
