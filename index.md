@@ -68,9 +68,14 @@ And edit their profile:
 <img width="600px" class="rounded float-start pe-4" src="../img/editProfile.png">
 
 ## Community Feedback
-We encourage feedback from the University of Hawaiʻi community to make Jam Sesh-ion better and more inclusive. Let us know what features you’d like to see, your experience with the app, and any other thoughts on how we can foster a thriving musical community!
+After having five other students try out our application, they had a few suggestions on how to improve our app, and noted a few things that they liked.
 
----
+* Users liked the presentation of the application, stating that it looks pretty and they like the nature-y asthethic, although they are unsure about how nature connects to a music app.
+* They liked how easy it was to add and manage sessions.
+* They liked the search function in the view sessions page.
+* They didn't like that there wasn't a feature to show the current capacity of a session. They had no way of knowing if a session was filled up or not.
+* Some users liked the profile aspect, but others didn't really know why they were needed.
+
 
 ## Development History
 
