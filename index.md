@@ -170,7 +170,7 @@ This Milestone will focus on finalizing the core features and improving the over
 
 Screenshots of what we have completed for this milestone: 
 
-Updated the home / landing page to a more 'user friendly' look. Also added the featured session section.
+Updated the home / landing page to a more 'user friendly' look. Added the featured session section.
 <img width="600px" class="rounded float-start pe-4" src="../img/newLandingNoLog.png">
 
 Now looks different when you are logged in compare to when you are logged out. 
