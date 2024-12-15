@@ -70,11 +70,15 @@ And edit their profile:
 ## Community Feedback
 After having five other students try out our application, they had a few suggestions on how to improve our app, and noted a few things that they liked.
 
+* User friendly to anyone who isn't familiar with the application, or with music 
 * Users liked the presentation of the application, stating that it looks pretty and they like the nature-y asthethic, although they are unsure about how nature connects to a music app.
 * They liked how easy it was to add and manage sessions.
 * They liked the search function in the view sessions page.
 * They didn't like that there wasn't a feature to show the current capacity of a session. They had no way of knowing if a session was filled up or not.
 * Some users liked the profile aspect, but others didn't really know why they were needed.
+* If possible, have a system where you can contact the person who created the session. For future improvements if we were able to do this again.
+
+
 
 ## Developer Guide
 
@@ -115,12 +119,16 @@ The issues that were completed for this milestone include:
 
 Current screenshots of our progress so far:
 
+We started on creating the home / landing page where users are directed once they are logged in. 
 <img width="600px" class="rounded float-start pe-4" src="../img/M1LandingPage.png">
 
+Created a page dedicated to logging in. 
 <img width="600px" class="rounded float-start pe-4" src="../img/M1LogIn.png">
 
+Page to view your own profile information. 
 <img width="600px" class="rounded float-start pe-4" src="../img/M1Profile.png">
 
+Page that shows the current jam session that is happening in real time. 
 <img width="600px" class="rounded float-start pe-4" src="../img/M1Sessions.png">
 
 
@@ -138,10 +146,13 @@ This Milestone will be focused on both styling and functionality. By this Milest
 
 Current Screenshots of what we comepleted for this milestone: 
 
+Made the session page appear more 'user friendly' and added color 
 <img width="600px" class="rounded float-start pe-4" src="../img/sessions.png">
 
-<img width="600px" class="rounded float-start pe-4" src="../img/addsession.png">
+Added a page for user to add your own session to the list 
+<img width="600px" class="rounded float-start pe-4" src="../img/addSession.png">
 
+A page to only show the sessions which session the user is participating in. 
 <img width="600px" class="rounded float-start pe-4" src="../img/currentSession.png">
 
 
@@ -159,10 +170,13 @@ This Milestone will focus on finalizing the core features and improving the over
 
 Screenshots of what we have completed for this milestone: 
 
+Updated the home / landing page to a more 'user friendly' look. Also added the featured session section.
 <img width="600px" class="rounded float-start pe-4" src="../img/newLandingNoLog.png">
 
+Now looks different when you are logged in compare to when you are logged out. 
 <img width="600px" class="rounded float-start pe-4" src="../img/newLanding.png">
 
+Dedicated Admin page, which admin can edit and remove sessions. 
 <img width="600px" class="rounded float-start pe-4" src="../img/adminPage.png">
 
 ---
