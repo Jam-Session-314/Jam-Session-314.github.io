@@ -140,9 +140,9 @@ Current Screenshots of what we comepleted for this milestone:
 
 <img width="600px" class="rounded float-start pe-4" src="../img/sessions.png">
 
-<img width="600px" class="rounded float-start pe-4" src="../img/addsession">
+<img width="600px" class="rounded float-start pe-4" src="../img/addsession.png">
 
-<img width="600px" class="rounded float-start pe-4" src="../img/currentSession">
+<img width="600px" class="rounded float-start pe-4" src="../img/currentSession.png">
 
 
 ### Milestone 3
@@ -156,6 +156,14 @@ This Milestone will focus on finalizing the core features and improving the over
 - Change the color of the session depending on if it still needs signups or not
 - Allow users to upload profile pictures to their profile
 - Create a landing page that shows a featured session
+
+Screenshots of what we have completed for this milestone: 
+
+<img width="600px" class="rounded float-start pe-4" src="../img/newLandingNoLog.png">
+
+<img width="600px" class="rounded float-start pe-4" src="../img/newLanding.png">
+
+<img width="600px" class="rounded float-start pe-4" src="../img/adminPage.png">
 
 ---
 
